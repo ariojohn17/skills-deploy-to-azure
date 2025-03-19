@@ -9,7 +9,6 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: ariojohn17-azure-ttt
   AZURE_WEBAPP_NAME: ariojohn17-ttt-app
-  ###############################################
 
 jobs:
   build:
